@@ -1,0 +1,3066 @@
+{
+  "contentVersion": 1,
+  "generatedAt": "2026-01-07T16:15:58.676Z",
+  "items": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Fear of the Lord",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 1:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 111:10"
+        },
+        {
+          "kind": "meditation",
+          "reference": "James 1:5"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 20 minutes (indoors or outdoors)",
+          "10 minutes of silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups 4×8–12",
+          "Dumbbell floor press 4×10",
+          "Plank 3×30–45 seconds"
+        ],
+        "progressionCue": "Leave 1–2 reps in reserve."
+      },
+      "intention": "I will fear the Lord and walk in wisdom today.",
+      "reviewQuestions": [
+        "Where did I seek wisdom today?",
+        "Where did I rely on myself instead of God?"
+      ]
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Stillness",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 46:10"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 26:3"
+        },
+        {
+          "kind": "meditation",
+          "reference": "John 14:27"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 20 minutes",
+          "5 minutes of silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull / Carry",
+        "items": [
+          "Dumbbell rows 4×10 each side",
+          "Sandbag carry 6 rounds of 30–60 seconds"
+        ],
+        "progressionCue": "Add time before adding intensity."
+      },
+      "intention": "I will slow down and trust God today.",
+      "reviewQuestions": [
+        "Where did I rush unnecessarily?",
+        "Did I practice stillness before reacting?"
+      ]
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Present Yourself",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 12:1"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Corinthians 6:19–20"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 20 minutes",
+          "Silence for first 5 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats 4×12–15",
+          "Reverse lunges 3×10 each side",
+          "Wall sit 3×30–45 seconds"
+        ],
+        "progressionCue": "Control the tempo."
+      },
+      "intention": "I offer my body to God in obedience today.",
+      "reviewQuestions": [
+        "Did my actions reflect worship?",
+        "Where did I withhold obedience?"
+      ]
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Endurance",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 1:2–4"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 5:3–5"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 20 minutes",
+          "Focus on breathing"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups 5×8",
+          "Dumbbell overhead press 4×8",
+          "Plank 3×45 seconds"
+        ],
+        "progressionCue": "Maintain form under fatigue."
+      },
+      "intention": "I will endure with faith and patience today.",
+      "reviewQuestions": [
+        "Where was my endurance tested?",
+        "How did God use difficulty for growth?"
+      ]
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Guard the Heart",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 4:23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 15:18"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 25 minutes",
+          "Final 5 minutes in silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull / Core",
+        "items": [
+          "Dumbbell rows 4×12",
+          "Dead bug 3×10 each side",
+          "Farmer carry 3×45 seconds"
+        ],
+        "progressionCue": "Endurance before load."
+      },
+      "intention": "I will guard my heart and thoughts today.",
+      "reviewQuestions": [
+        "What influenced my heart today?",
+        "What should I guard against tomorrow?"
+      ]
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Commitment",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 16:3"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 37:5"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Walk 20 minutes",
+          "Gratitude reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Light Full Body",
+        "items": [
+          "Bodyweight squats 3×12",
+          "Push-ups 3×10",
+          "Dumbbell rows 3×12"
+        ],
+        "progressionCue": "Reduce intensity."
+      },
+      "intention": "I commit my work and rest to the Lord today.",
+      "reviewQuestions": [
+        "Did I surrender control today?",
+        "Where did I resist trusting God?"
+      ]
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Sabbath Rest",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Lamentations 3:22–23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 118:24"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Unhurried walk or rest",
+          "Prayerful reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Rest",
+        "items": [
+          "Rest and recovery only"
+        ],
+        "progressionCue": null
+      },
+      "intention": "I receive rest as a gift from God.",
+      "reviewQuestions": [
+        "Did I truly rest today?",
+        "What did God show me in rest?"
+      ]
+    },
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Integrity",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 10:9"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 15:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 20–25 minutes",
+          "Calm, nasal breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 4×8–12",
+          "Dumbbell floor press — 4×10",
+          "Dumbbell overhead press — 3×8",
+          "Plank — 3×35–45 seconds"
+        ],
+        "progressionCue": "If last week felt steady, add one rep per set."
+      },
+      "intention": "I will act the same in private as in public.",
+      "reviewQuestions": [
+        "Where did integrity require restraint today?",
+        "Where did I cut corners?"
+      ]
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Mindset",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 8:6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Colossians 3:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×12",
+          "Sandbag or dumbbell deadlift — 4×10",
+          "Reverse lunges — 3×8 per leg",
+          "Standing calf raises — 3×16"
+        ],
+        "progressionCue": "Maintain control before increasing pace."
+      },
+      "intention": "I will set my mind deliberately today.",
+      "reviewQuestions": [
+        "What thoughts dominated my attention?",
+        "Did I redirect them?"
+      ]
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "Submission",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 4:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Peter 5:8-9"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "Light sweat, calm breathing"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×10",
+          "Towel or band rows — 3×12",
+          "Loaded carry — 4×40–50 seconds",
+          "Dead hang (if available) — 3 rounds"
+        ],
+        "progressionCue": "Increase carry time before adding load."
+      },
+      "intention": "I submit my resistance, not my responsibility.",
+      "reviewQuestions": [
+        "Where was submission difficult today?",
+        "Did I respond with humility?"
+      ]
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Steadiness",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 112:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 41:10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 25 minutes (3 minutes steady / 1 minute brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 5–6 rounds",
+          "Dead bug or hollow hold — 3×25–40 seconds"
+        ],
+        "progressionCue": "Calm breathing matters more than speed."
+      },
+      "intention": "I will remain steady under pressure.",
+      "reviewQuestions": [
+        "What tested my composure today?",
+        "Did I remain anchored?"
+      ]
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "Correction",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 12:1"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 12:11"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×10",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×12",
+          "Loaded carry — 5–6 minutes total"
+        ],
+        "progressionCue": "Add one controlled rep if last session felt manageable."
+      },
+      "intention": "I will receive correction without defensiveness.",
+      "reviewQuestions": [
+        "How did I respond to correction today?",
+        "What did it reveal?"
+      ]
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Mastery",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 6:12"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Galatians 5:16"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 20–25 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Reinforce consistency, not intensity."
+      },
+      "intention": "I will not be mastered by impulse.",
+      "reviewQuestions": [
+        "Where did restraint show up today?",
+        "Where do I need vigilance?"
+      ]
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Anchored (Sabbath)",
+      "theme": "Restraint of Attention",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 16:8"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 3:5-6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Easy walk — 15–20 minutes",
+          "Gratitude-focused"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training",
+        "items": [],
+        "progressionCue": "No sugar after dinner | No phone use after 8:00 PM"
+      },
+      "intention": "What disciplines felt most difficult this week? | Which felt lighter than expected? | What will I carry into next week?",
+      "reviewQuestions": []
+    },
+    {
+      "day": 15,
+      "week": 3,
+      "title": "Obedience",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Samuel 15:22"
+        },
+        {
+          "kind": "meditation",
+          "reference": "John 14:15"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "Calm nasal breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 4×10–14",
+          "Dumbbell floor press — 4×12",
+          "Dumbbell overhead press — 3×8–10",
+          "Plank — 3×40–50 seconds"
+        ],
+        "progressionCue": "Add one rep per set if all reps were clean last week."
+      },
+      "intention": "I will obey promptly, not selectively.",
+      "reviewQuestions": [
+        "Where did obedience require restraint today?",
+        "Where did I delay?"
+      ]
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Submission",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Luke 9:23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 12:1"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×14",
+          "Sandbag or dumbbell deadlift — 4×12",
+          "Reverse lunges — 3×10 per leg",
+          "Standing calf raises — 3×18"
+        ],
+        "progressionCue": "Maintain tempo before increasing load."
+      },
+      "intention": "I will deny myself without resentment.",
+      "reviewQuestions": [
+        "What desires did I bring under control today?"
+      ]
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Contentment",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Philippians 4:11"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Timothy 6:6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×12",
+          "Towel/band rows — 3×14",
+          "Loaded carry — 4×50–60 seconds"
+        ],
+        "progressionCue": "Increase carry duration before adding weight."
+      },
+      "intention": "I will practice contentment today.",
+      "reviewQuestions": [
+        "Where did dissatisfaction surface?",
+        "How did I respond?"
+      ]
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "Control",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 25:28"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Corinthians 9:27"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 30 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 6 rounds",
+          "Dead bug or hollow hold — 3×40–50 seconds",
+          "Slow mountain climbers — 3×20"
+        ],
+        "progressionCue": "Control breathing before increasing pace."
+      },
+      "intention": "I will govern my impulses deliberately.",
+      "reviewQuestions": [
+        "What impulse did I restrain today?"
+      ]
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Discipline",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 12:27"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 12:11"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×12",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×14",
+          "Loaded carry — 6–8 minutes total"
+        ],
+        "progressionCue": "Add one controlled rep where possible."
+      },
+      "intention": "I will accept discipline for long-term gain.",
+      "reviewQuestions": [
+        "What did discipline cost me today?",
+        "What will it yield?"
+      ]
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Endurance",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 1:12"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 10:36"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 20–25 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Preserve consistency over intensity."
+      },
+      "intention": "I will endure without complaint.",
+      "reviewQuestions": [
+        "Where did perseverance matter most today?"
+      ]
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Grounded (Sabbath)",
+      "theme": "Restraint of Appetite",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 62:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 11:28"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Easy walk — 15–20 minutes",
+          "Gratitude-focused"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training",
+        "items": [],
+        "progressionCue": "No sugar after dinner | No phone use after 8:00 PM"
+      },
+      "intention": "What did restraint teach me this week? | Where did I grow most?",
+      "reviewQuestions": []
+    },
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Silence",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Habakkuk 2:20"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 46:10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "No audio",
+          "Intentional silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 4×12–15",
+          "Dumbbell floor press — 4×12",
+          "Dumbbell overhead press — 4×8–10",
+          "Plank — 3×45–60 seconds"
+        ],
+        "progressionCue": "Maintain quiet control through fatigue."
+      },
+      "intention": "I will create space to listen before speaking.",
+      "reviewQuestions": [
+        "Where did silence reveal something today?",
+        "What did I feel compelled to avoid?"
+      ]
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "Listening",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Samuel 3:9"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 18:13"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "Silence first 10 minutes"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×15",
+          "Sandbag or dumbbell deadlift — 4×12",
+          "Reverse lunges — 3×10 per leg",
+          "Standing calf raises — 3×20"
+        ],
+        "progressionCue": "Slow tempo; no rushing."
+      },
+      "intention": "I will listen fully before responding.",
+      "reviewQuestions": [
+        "Where did I interrupt or assume?",
+        "What did careful listening change?"
+      ]
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "Stillness",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 37:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Lamentations 3:26"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Silent, steady breathing"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×12",
+          "Towel/band rows — 3×14",
+          "Loaded carry — 4×60 seconds"
+        ],
+        "progressionCue": "Breath control before load."
+      },
+      "intention": "I will wait without agitation today.",
+      "reviewQuestions": [
+        "What stirred impatience?",
+        "Did I wait or force?"
+      ]
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Restraint",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 17:27"
+        },
+        {
+          "kind": "meditation",
+          "reference": "James 1:19"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 30 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 6–8 rounds",
+          "Dead bug or hollow hold — 3×45–60 seconds",
+          "Slow mountain climbers — 3×24"
+        ],
+        "progressionCue": "Control breathing under effort."
+      },
+      "intention": "I will restrain my words and reactions.",
+      "reviewQuestions": [
+        "Where did restraint prevent harm today?"
+      ]
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Trust",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Isaiah 30:15"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 62:1"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Silence + relaxed posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×12",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×14",
+          "Loaded carry — 8 minutes total"
+        ],
+        "progressionCue": "Smooth, quiet reps only."
+      },
+      "intention": "I will trust without constant reassurance.",
+      "reviewQuestions": [
+        "What did silence expose about my trust?"
+      ]
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Preparation",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Exodus 14:14"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 131:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 20–25 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare for fast day; reduce intensity."
+      },
+      "intention": "I prepare my body and heart for fasting.",
+      "reviewQuestions": [
+        "What attachments surfaced as I prepared?"
+      ]
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Humility (Fast Day)",
+      "theme": "Silence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Joel 2:12"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 6:17–18"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Light walk — 15–20 minutes",
+          "Prayerful silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Fast continues through evening; prayer only"
+        ],
+        "progressionCue": "No training today. Focus on prayer and rest."
+      },
+      "intention": "I humble myself intentionally before God.",
+      "reviewQuestions": [
+        "What did hunger reveal?",
+        "Where did dependence deepen?"
+      ]
+    },
+    {
+      "day": 29,
+      "week": 5,
+      "title": "Order",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Corinthians 14:40"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 24:3–4"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 25–30 minutes",
+          "Quiet breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 4×12–15",
+          "Dumbbell floor press — 4×12",
+          "Dumbbell overhead press — 4×8–10",
+          "Plank — 3×50–60 seconds"
+        ],
+        "progressionCue": "Keep form precise; add reps only if order is maintained."
+      },
+      "intention": "I will bring order to my actions today.",
+      "reviewQuestions": [
+        "Where did disorder show up?",
+        "What did structure improve?"
+      ]
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "Priority",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Matthew 6:33"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 3:9–10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×15",
+          "Sandbag or dumbbell deadlift — 4×12",
+          "Reverse lunges — 3×10 per leg",
+          "Standing calf raises — 3×20"
+        ],
+        "progressionCue": "Do not rush transitions between sets."
+      },
+      "intention": "I will seek first what matters most.",
+      "reviewQuestions": [
+        "What competed for first place today?",
+        "What won?"
+      ]
+    },
+    {
+      "day": 31,
+      "week": 5,
+      "title": "Focus",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Colossians 3:23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 16:3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×12",
+          "Towel/band rows — 3×14",
+          "Loaded carry — 4×60–75 seconds"
+        ],
+        "progressionCue": "Increase carry time before load."
+      },
+      "intention": "I will give full effort to the task at hand.",
+      "reviewQuestions": [
+        "Where did distraction weaken my work?"
+      ]
+    },
+    {
+      "day": 32,
+      "week": 5,
+      "title": "Consistency",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Galatians 6:9"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 12:1"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 30 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 6–8 rounds",
+          "Dead bug or hollow hold — 3×45–60 seconds",
+          "Slow mountain climbers — 3×26"
+        ],
+        "progressionCue": "Breath first; pace second."
+      },
+      "intention": "I will not grow weary in doing good.",
+      "reviewQuestions": [
+        "What tempted me to skip or cut short today?"
+      ]
+    },
+    {
+      "day": 33,
+      "week": 5,
+      "title": "Stewardship",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Luke 16:10"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Peter 4:10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Gratitude reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×12",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×14",
+          "Loaded carry — 8–10 minutes total"
+        ],
+        "progressionCue": "Quality reps over quantity."
+      },
+      "intention": "I will steward time and strength faithfully.",
+      "reviewQuestions": [
+        "What did I manage well today?",
+        "What needs care?"
+      ]
+    },
+    {
+      "day": 34,
+      "week": 5,
+      "title": "Preparation",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 21:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 20–25 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare for Sabbath; reduce intensity."
+      },
+      "intention": "I prepare today so tomorrow can rest.",
+      "reviewQuestions": [
+        "What preparation reduced stress?"
+      ]
+    },
+    {
+      "day": 35,
+      "week": 5,
+      "title": "Sabbath Rest",
+      "theme": "Order",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Genesis 2:2–3"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Mark 2:27"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Gratitude and prayer"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Receive rest without guilt."
+      },
+      "intention": "I receive rest as God’s design.",
+      "reviewQuestions": [
+        "Did I truly rest?",
+        "What order did rest restore?"
+      ]
+    },
+    {
+      "day": 36,
+      "week": 6,
+      "title": "Strength with Purpose",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "2 Timothy 1:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 24:5"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Calm nasal breathing"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×10–14",
+          "Dumbbell floor press — 4×12–14",
+          "Dumbbell overhead press — 4×8–10",
+          "Plank — 3×60 seconds"
+        ],
+        "progressionCue": "Add reps only if posture stays strict."
+      },
+      "intention": "I will apply strength with restraint today.",
+      "reviewQuestions": [
+        "Where did I use strength wisely?",
+        "Where did I rush?"
+      ]
+    },
+    {
+      "day": 37,
+      "week": 6,
+      "title": "Measured Effort",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Ecclesiastes 4:6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 13:4"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×16",
+          "Sandbag or dumbbell deadlift — 4×14",
+          "Reverse lunges — 3×12 per leg",
+          "Standing calf raises — 3×22"
+        ],
+        "progressionCue": "Smooth tempo beats heavy effort."
+      },
+      "intention": "I will work diligently without excess.",
+      "reviewQuestions": [
+        "Where did moderation serve me today?"
+      ]
+    },
+    {
+      "day": 38,
+      "week": 6,
+      "title": "Self-Control",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Galatians 5:22–23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 16:32"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 30–35 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×14",
+          "Towel/band rows — 3×16",
+          "Loaded carry — 5×60–75 seconds"
+        ],
+        "progressionCue": "Increase carry time before load."
+      },
+      "intention": "I will govern strength through self-control.",
+      "reviewQuestions": [
+        "What required restraint today?"
+      ]
+    },
+    {
+      "day": 39,
+      "week": 6,
+      "title": "Composure",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 112:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 26:3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 30 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 7–8 rounds",
+          "Dead bug or hollow hold — 3×50–60 seconds",
+          "Slow mountain climbers — 3×28"
+        ],
+        "progressionCue": "Calm breathing under effort."
+      },
+      "intention": "I will remain steady under pressure.",
+      "reviewQuestions": [
+        "What tested my composure today?"
+      ]
+    },
+    {
+      "day": 40,
+      "week": 6,
+      "title": "Perseverance",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Hebrews 12:3"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 15:4"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 35 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×14",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×16",
+          "Loaded carry — 10 minutes total"
+        ],
+        "progressionCue": "Keep form clean through fatigue."
+      },
+      "intention": "I will endure without discouragement.",
+      "reviewQuestions": [
+        "Where did perseverance matter most today?"
+      ]
+    },
+    {
+      "day": 41,
+      "week": 6,
+      "title": "Preparation",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 20:18"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 20–25 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Reduce intensity before Sabbath."
+      },
+      "intention": "I prepare wisely so rest can restore.",
+      "reviewQuestions": [
+        "What preparation helped me most?"
+      ]
+    },
+    {
+      "day": 42,
+      "week": 6,
+      "title": "Sabbath Strength",
+      "theme": "Strength Under Control",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Isaiah 40:31"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 11:28"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Prayer and gratitude"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Receive rest as renewal."
+      },
+      "intention": "I receive renewed strength through rest.",
+      "reviewQuestions": [
+        "What strength did rest restore?"
+      ]
+    },
+    {
+      "day": 43,
+      "week": 7,
+      "title": "Joy in the Work",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Nehemiah 8:10"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 15:13"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 35 minutes",
+          "Upright posture",
+          "Gratitude focus"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×12–16",
+          "Dumbbell floor press — 4×14",
+          "Dumbbell overhead press — 4×10",
+          "Plank — 3×60–75 seconds"
+        ],
+        "progressionCue": "Add reps only if joy and form remain."
+      },
+      "intention": "I will work with joy, not resentment.",
+      "reviewQuestions": [
+        "Where did joy strengthen endurance today?"
+      ]
+    },
+    {
+      "day": 44,
+      "week": 7,
+      "title": "Steadfast",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Corinthians 15:58"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 6:12"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 35–40 minutes",
+          "Calm breathing"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×18",
+          "Sandbag or dumbbell deadlift — 4×16",
+          "Reverse lunges — 3×12 per leg",
+          "Standing calf raises — 3×24"
+        ],
+        "progressionCue": "Consistency before intensity."
+      },
+      "intention": "I will remain steadfast today.",
+      "reviewQuestions": [
+        "What tempted me to quit?",
+        "Why didn’t I?"
+      ]
+    },
+    {
+      "day": 45,
+      "week": 7,
+      "title": "Wholehearted",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Colossians 3:17"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 100:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 40 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×16",
+          "Towel/band rows — 3×18",
+          "Loaded carry — 5×75–90 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I will give full effort with gratitude.",
+      "reviewQuestions": [
+        "Where did wholeheartedness change my attitude?"
+      ]
+    },
+    {
+      "day": 46,
+      "week": 7,
+      "title": "Cheerful Service",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "2 Corinthians 9:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Galatians 6:10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 35 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 8 rounds",
+          "Dead bug or hollow hold — 3×60 seconds",
+          "Slow mountain climbers — 3×30"
+        ],
+        "progressionCue": "Smile and breathe through effort."
+      },
+      "intention": "I will serve willingly, not grudgingly.",
+      "reviewQuestions": [
+        "Where did service cost me?",
+        "What joy followed?"
+      ]
+    },
+    {
+      "day": 47,
+      "week": 7,
+      "title": "Hopeful",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 12:12"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 42:11"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 40 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×16",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×18",
+          "Loaded carry — 12 minutes total"
+        ],
+        "progressionCue": "Hold posture as fatigue rises."
+      },
+      "intention": "I will anchor endurance in hope.",
+      "reviewQuestions": [
+        "What renewed my hope today?"
+      ]
+    },
+    {
+      "day": 48,
+      "week": 7,
+      "title": "Preparation",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 17:22"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 3:13"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended gratitude"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Reduce intensity before Sabbath."
+      },
+      "intention": "I prepare joyfully for rest.",
+      "reviewQuestions": [
+        "What brought gladness today?"
+      ]
+    },
+    {
+      "day": 49,
+      "week": 7,
+      "title": "Sabbath Joy",
+      "theme": "Endurance with Joy",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 16:11"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 14:17"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Thanksgiving prayer"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Receive joy as restoration."
+      },
+      "intention": "I receive joy as strength from God.",
+      "reviewQuestions": [
+        "How did rest restore joy this week?"
+      ]
+    },
+    {
+      "day": 50,
+      "week": 8,
+      "title": "Dependence",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "John 15:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "2 Corinthians 12:9"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 40 minutes",
+          "Calm breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×14–18",
+          "Dumbbell floor press — 4×14–16",
+          "Dumbbell overhead press — 4×10–12",
+          "Plank — 3×75 seconds"
+        ],
+        "progressionCue": "Add reps only if humility and form remain."
+      },
+      "intention": "I rely on God rather than my own strength today.",
+      "reviewQuestions": [
+        "Where did I need help today?",
+        "Did I ask for it?"
+      ]
+    },
+    {
+      "day": 51,
+      "week": 8,
+      "title": "Meekness",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Matthew 5:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Numbers 12:3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 40–45 minutes",
+          "Relaxed posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×20",
+          "Sandbag or dumbbell deadlift — 4×16",
+          "Reverse lunges — 3×14 per leg",
+          "Standing calf raises — 3×26"
+        ],
+        "progressionCue": "Strength without forcefulness."
+      },
+      "intention": "I will exercise strength with gentleness.",
+      "reviewQuestions": [
+        "Where did gentleness matter today?"
+      ]
+    },
+    {
+      "day": 52,
+      "week": 8,
+      "title": "Surrender",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 12:1"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Luke 22:42"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 45 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×16",
+          "Towel/band rows — 3×18",
+          "Loaded carry — 6×75–90 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I surrender my will without resistance.",
+      "reviewQuestions": [
+        "What did I hold back today?"
+      ]
+    },
+    {
+      "day": 53,
+      "week": 8,
+      "title": "Submission",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 4:10"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Peter 5:6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 40 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 8–10 rounds",
+          "Dead bug or hollow hold — 3×60–75 seconds",
+          "Slow mountain climbers — 3×32"
+        ],
+        "progressionCue": "Breath before pace."
+      },
+      "intention": "I will lower myself before God today.",
+      "reviewQuestions": [
+        "Where did pride try to surface?"
+      ]
+    },
+    {
+      "day": 54,
+      "week": 8,
+      "title": "Gratitude",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Thessalonians 5:18"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 103:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 45 minutes",
+          "Gratitude reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×18",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×18",
+          "Loaded carry — 14 minutes total"
+        ],
+        "progressionCue": "Form stays clean as volume increases."
+      },
+      "intention": "I will give thanks in all circumstances.",
+      "reviewQuestions": [
+        "What am I most grateful for today?"
+      ]
+    },
+    {
+      "day": 55,
+      "week": 8,
+      "title": "Preparation",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 3:5–6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 127:1"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare body and heart for fast day."
+      },
+      "intention": "I prepare myself to depend fully on God.",
+      "reviewQuestions": [
+        "What attachments surfaced as I prepared?"
+      ]
+    },
+    {
+      "day": 56,
+      "week": 8,
+      "title": "Humility (Fast Day)",
+      "theme": "Humility & Dependence",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Isaiah 58:6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 4:4"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Light walk — 15–20 minutes",
+          "Prayerful silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Fast continues through evening; prayer only"
+        ],
+        "progressionCue": "No training today. Focus on prayer and rest."
+      },
+      "intention": "I humble myself to seek God’s strength.",
+      "reviewQuestions": [
+        "What did fasting reveal?",
+        "Where did dependence deepen?"
+      ]
+    },
+    {
+      "day": 57,
+      "week": 9,
+      "title": "Rooted",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Colossians 2:6–7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 1:1–3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 40–45 minutes",
+          "Calm breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×14–18",
+          "Dumbbell floor press — 4×16",
+          "Dumbbell overhead press — 4×10–12",
+          "Plank — 3×75–90 seconds"
+        ],
+        "progressionCue": "Add reps only if posture remains rooted."
+      },
+      "intention": "I will stay rooted in Christ today.",
+      "reviewQuestions": [
+        "What helped me remain rooted?",
+        "What pulled at my attention?"
+      ]
+    },
+    {
+      "day": 58,
+      "week": 9,
+      "title": "Trusting",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 3:5–6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 26:3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 45 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×20",
+          "Sandbag or dumbbell deadlift — 4×18",
+          "Reverse lunges — 3×14 per leg",
+          "Standing calf raises — 3×28"
+        ],
+        "progressionCue": "Slow tempo over heavy effort."
+      },
+      "intention": "I will trust God rather than lean on myself.",
+      "reviewQuestions": [
+        "Where did I practice trust today?"
+      ]
+    },
+    {
+      "day": 59,
+      "week": 9,
+      "title": "Faithful Action",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 2:17"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 11:6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 45–50 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×18",
+          "Towel/band rows — 3×20",
+          "Loaded carry — 6×90 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I will live out my faith through action.",
+      "reviewQuestions": [
+        "Where did faith require action today?"
+      ]
+    },
+    {
+      "day": 60,
+      "week": 9,
+      "title": "Perspective",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "2 Corinthians 4:16–18"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Romans 8:18"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 45 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 8–10 rounds",
+          "Dead bug or hollow hold — 3×75 seconds",
+          "Slow mountain climbers — 3×34"
+        ],
+        "progressionCue": "Breath control over speed."
+      },
+      "intention": "I will fix my eyes on what is eternal.",
+      "reviewQuestions": [
+        "What shifted my perspective today?"
+      ]
+    },
+    {
+      "day": 61,
+      "week": 9,
+      "title": "Enduring Hope",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Romans 5:3–5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 33:20–22"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 50 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×18",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×20",
+          "Loaded carry — 15 minutes total"
+        ],
+        "progressionCue": "Maintain form as volume increases."
+      },
+      "intention": "I will let trials produce hope.",
+      "reviewQuestions": [
+        "Where did hope sustain me today?"
+      ]
+    },
+    {
+      "day": 62,
+      "week": 9,
+      "title": "Preparation",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 16:3"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare for Sabbath; reduce intensity."
+      },
+      "intention": "I prepare my heart to rest in faith.",
+      "reviewQuestions": [
+        "What preparation helped me most today?"
+      ]
+    },
+    {
+      "day": 63,
+      "week": 9,
+      "title": "Sabbath Trust",
+      "theme": "Steadfast Faith",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Psalm 37:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 6:25–34"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Prayer and gratitude"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Release worry and receive rest."
+      },
+      "intention": "I rest, trusting God to provide.",
+      "reviewQuestions": [
+        "What worries did I release this week?"
+      ]
+    },
+    {
+      "day": 64,
+      "week": 10,
+      "title": "Steward Leadership",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Luke 12:48"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Corinthians 4:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 45–50 minutes",
+          "Calm breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×16–20",
+          "Dumbbell floor press — 4×16–18",
+          "Dumbbell overhead press — 4×10–12",
+          "Plank — 3×90 seconds"
+        ],
+        "progressionCue": "Add reps only if control and humility remain."
+      },
+      "intention": "I will steward responsibility faithfully.",
+      "reviewQuestions": [
+        "Where was I entrusted with influence today?",
+        "How did I handle it?"
+      ]
+    },
+    {
+      "day": 65,
+      "week": 10,
+      "title": "Example",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Timothy 4:12"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Philippians 3:17"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 50 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×22",
+          "Sandbag or dumbbell deadlift — 4×18",
+          "Reverse lunges — 3×16 per leg",
+          "Standing calf raises — 3×30"
+        ],
+        "progressionCue": "Quality movement sets the example."
+      },
+      "intention": "I will lead by example, not instruction alone.",
+      "reviewQuestions": [
+        "Who watched my conduct today?"
+      ]
+    },
+    {
+      "day": 66,
+      "week": 10,
+      "title": "Servant Heart",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Mark 10:45"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Philippians 2:3–4"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 50–55 minutes",
+          "Gratitude focus"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×18",
+          "Towel/band rows — 3×20",
+          "Loaded carry — 6×90–105 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I will serve without seeking recognition.",
+      "reviewQuestions": [
+        "Where did service cost me today?"
+      ]
+    },
+    {
+      "day": 67,
+      "week": 10,
+      "title": "Accountability",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 27:17"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Galatians 6:1–2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 45 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 9–10 rounds",
+          "Dead bug or hollow hold — 3×75–90 seconds",
+          "Slow mountain climbers — 3×36"
+        ],
+        "progressionCue": "Breathe steadily; avoid rushing."
+      },
+      "intention": "I will welcome accountability as protection.",
+      "reviewQuestions": [
+        "Who sharpened me today?",
+        "How did I respond?"
+      ]
+    },
+    {
+      "day": 68,
+      "week": 10,
+      "title": "Integrity",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Titus 2:7–8"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Proverbs 11:3"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 55 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×20",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×20",
+          "Loaded carry — 16 minutes total"
+        ],
+        "progressionCue": "Form never sacrificed for volume."
+      },
+      "intention": "I will lead with integrity in all settings.",
+      "reviewQuestions": [
+        "Where was integrity tested today?"
+      ]
+    },
+    {
+      "day": 69,
+      "week": 10,
+      "title": "Preparation",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 4:23"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare for Sabbath; reduce intensity."
+      },
+      "intention": "I prepare my heart to lead well through rest.",
+      "reviewQuestions": [
+        "What boundaries protected me today?"
+      ]
+    },
+    {
+      "day": 70,
+      "week": 10,
+      "title": "Sabbath Responsibility",
+      "theme": "Faithful Leadership",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Ezekiel 34:2–4"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 20:26–28"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Prayer and reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Receive rest to sustain leadership."
+      },
+      "intention": "I rest so I can serve faithfully.",
+      "reviewQuestions": [
+        "How did rest renew my sense of responsibility?"
+      ]
+    },
+    {
+      "day": 71,
+      "week": 11,
+      "title": "Finish Faithfully",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "2 Timothy 4:7"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 10:36"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 50–55 minutes",
+          "Calm breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×18–22",
+          "Dumbbell floor press — 4×18–20",
+          "Dumbbell overhead press — 4×12",
+          "Plank — 3×90–105 seconds"
+        ],
+        "progressionCue": "Add reps only if control remains steady."
+      },
+      "intention": "I will finish today’s work faithfully.",
+      "reviewQuestions": [
+        "Where did endurance matter most today?"
+      ]
+    },
+    {
+      "day": 72,
+      "week": 11,
+      "title": "Unwavering",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Joshua 24:15"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 119:30"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 55 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×24",
+          "Sandbag or dumbbell deadlift — 4×20",
+          "Reverse lunges — 3×18 per leg",
+          "Standing calf raises — 3×32"
+        ],
+        "progressionCue": "Steady effort without wavering."
+      },
+      "intention": "I will choose obedience without hesitation.",
+      "reviewQuestions": [
+        "Where was my resolve tested today?"
+      ]
+    },
+    {
+      "day": 73,
+      "week": 11,
+      "title": "Watchful",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Matthew 26:41"
+        },
+        {
+          "kind": "meditation",
+          "reference": "1 Peter 5:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 55–60 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×20",
+          "Towel/band rows — 3×22",
+          "Loaded carry — 6×105–120 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I will remain watchful and disciplined.",
+      "reviewQuestions": [
+        "What required vigilance today?"
+      ]
+    },
+    {
+      "day": 74,
+      "week": 11,
+      "title": "Resolved",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Daniel 1:8"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 119:106"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 50 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 10–12 rounds",
+          "Dead bug or hollow hold — 3×90 seconds",
+          "Slow mountain climbers — 3×38"
+        ],
+        "progressionCue": "Breath control over speed."
+      },
+      "intention": "I will resolve to obey before temptation comes.",
+      "reviewQuestions": [
+        "Where did resolve protect me today?"
+      ]
+    },
+    {
+      "day": 75,
+      "week": 11,
+      "title": "Enduring Faith",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Hebrews 11:6"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 40:31"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 60 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×22",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×22",
+          "Loaded carry — 18 minutes total"
+        ],
+        "progressionCue": "Maintain posture through fatigue."
+      },
+      "intention": "I will trust God for strength to endure.",
+      "reviewQuestions": [
+        "Where did faith carry me through?"
+      ]
+    },
+    {
+      "day": 76,
+      "week": 11,
+      "title": "Preparation",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 21:31"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare for Sabbath; reduce intensity."
+      },
+      "intention": "I prepare my heart to rest obediently.",
+      "reviewQuestions": [
+        "What preparation helped me most today?"
+      ]
+    },
+    {
+      "day": 77,
+      "week": 11,
+      "title": "Sabbath Endurance",
+      "theme": "Persevering Obedience",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Isaiah 30:15"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 11:29"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Unhurried walk or rest",
+          "Prayer and reflection"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Rest only; no training"
+        ],
+        "progressionCue": "Receive rest as renewal for obedience."
+      },
+      "intention": "I rest, trusting God to sustain obedience.",
+      "reviewQuestions": [
+        "How did rest renew my obedience?"
+      ]
+    },
+    {
+      "day": 78,
+      "week": 12,
+      "title": "Standing Firm",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "1 Corinthians 16:13"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ephesians 6:13"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 55–60 minutes",
+          "Calm breathing",
+          "No audio"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Push",
+        "items": [
+          "Push-ups — 5×20–24",
+          "Dumbbell floor press — 4×20–22",
+          "Dumbbell overhead press — 4×12–14",
+          "Plank — 3×105–120 seconds"
+        ],
+        "progressionCue": "Add reps only if posture and composure remain strong."
+      },
+      "intention": "I will stand firm regardless of pressure.",
+      "reviewQuestions": [
+        "Where did pressure test my resolve today?"
+      ]
+    },
+    {
+      "day": 79,
+      "week": 12,
+      "title": "Enduring Load",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Galatians 6:5"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Isaiah 43:2"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 60 minutes",
+          "Upright posture"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Legs",
+        "items": [
+          "Bodyweight squats — 4×26",
+          "Sandbag or dumbbell deadlift — 4×22",
+          "Reverse lunges — 3×20 per leg",
+          "Standing calf raises — 3×34"
+        ],
+        "progressionCue": "Carry the load without complaint."
+      },
+      "intention": "I will carry my responsibilities faithfully.",
+      "reviewQuestions": [
+        "What felt heavy today?",
+        "How did I respond?"
+      ]
+    },
+    {
+      "day": 80,
+      "week": 12,
+      "title": "Faith in Action",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "James 1:22"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Hebrews 12:11"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 60–65 minutes",
+          "Focused attention"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Pull",
+        "items": [
+          "Dumbbell rows — 4×22",
+          "Towel/band rows — 3×24",
+          "Loaded carry — 6×120–135 seconds"
+        ],
+        "progressionCue": "Time under load before weight."
+      },
+      "intention": "I will act on what I believe.",
+      "reviewQuestions": [
+        "Where did obedience require action today?"
+      ]
+    },
+    {
+      "day": 81,
+      "week": 12,
+      "title": "Unshaken",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Hebrews 12:28"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Psalm 62:6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk intervals — 55 minutes (3 min steady / 1 min brisk)"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Conditioning & Core",
+        "items": [
+          "Farmer carries — 12 rounds",
+          "Dead bug or hollow hold — 3×90–105 seconds",
+          "Slow mountain climbers — 3×40"
+        ],
+        "progressionCue": "Breathe steadily through difficulty."
+      },
+      "intention": "I will remain unshaken under strain.",
+      "reviewQuestions": [
+        "What tried to unsettle me today?"
+      ]
+    },
+    {
+      "day": 82,
+      "week": 12,
+      "title": "Faithful Finish",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Hebrews 3:14"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Revelation 2:10"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Steady walk — 65 minutes",
+          "Relaxed shoulders"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Full Body",
+        "items": [
+          "Goblet squat — 4×24",
+          "Push-ups — 3×AMRAP",
+          "Dumbbell Romanian deadlift — 3×24",
+          "Loaded carry — 20 minutes total"
+        ],
+        "progressionCue": "Maintain form through final volume."
+      },
+      "intention": "I will finish this program faithfully.",
+      "reviewQuestions": [
+        "What growth am I most aware of now?"
+      ]
+    },
+    {
+      "day": 83,
+      "week": 12,
+      "title": "Preparation",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Proverbs 16:9"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Ecclesiastes 7:8"
+        }
+      ],
+      "morning": {
+        "title": "Morning Discipline",
+        "items": [
+          "Easy steady walk — 25–30 minutes",
+          "Extended silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Training — Optional Light Day",
+        "items": [
+          "Choose one: Easy carries",
+          "Gentle mobility",
+          "Light core work"
+        ],
+        "progressionCue": "Prepare body and heart for fast day."
+      },
+      "intention": "I prepare myself to finish humbly.",
+      "reviewQuestions": [
+        "What emotions surface as I prepare to fast?"
+      ]
+    },
+    {
+      "day": 84,
+      "week": 12,
+      "title": "Faithful Under Load (Fast & Sabbath)",
+      "theme": "Faithful Under Load",
+      "scripture": [
+        {
+          "kind": "primary",
+          "reference": "Isaiah 40:29–31"
+        },
+        {
+          "kind": "meditation",
+          "reference": "Matthew 5:6"
+        }
+      ],
+      "morning": {
+        "title": "Morning Practice",
+        "items": [
+          "Light walk — 15–20 minutes",
+          "Prayerful silence"
+        ]
+      },
+      "evening": {
+        "title": "Evening Practice",
+        "items": [
+          "Fast continues through evening; prayer only"
+        ],
+        "progressionCue": "No training today. Reflect and give thanks."
+      },
+      "intention": "I finish faithful, not exhausted.",
+      "reviewQuestions": [
+        "What has God strengthened in me over these 12 weeks?"
+      ]
+    }
+  ]
+}

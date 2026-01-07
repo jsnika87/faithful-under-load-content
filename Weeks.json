@@ -1,0 +1,90 @@
+{
+  "contentVersion": 1,
+  "generatedAt": "2026-01-07T16:15:58.981Z",
+  "items": [
+    {
+      "week": 1,
+      "title": "Restraint of Appetite",
+      "challengeTitle": "No Sugar After Dinner",
+      "challengeRule": "No sugar or sweetened foods after dinner each day.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 2,
+      "title": "Restraint of Attention",
+      "challengeTitle": "No Phone After 8:00 PM",
+      "challengeRule": "No phone use after 8:00 PM each evening.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 3,
+      "title": "Order",
+      "challengeTitle": "Consistent Wake Time",
+      "challengeRule": "Wake at the same time every day (±15 minutes), including weekends.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 4,
+      "title": "Silence",
+      "challengeTitle": "Daily Silence",
+      "challengeRule": "Ten minutes of intentional silence each day.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 5,
+      "title": "Intentional Eating",
+      "challengeTitle": "No Snacking Between Meals",
+      "challengeRule": "No snacking between meals; eat only at planned times.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 6,
+      "title": "Restraint of Speech",
+      "challengeTitle": "Do Not Interrupt",
+      "challengeRule": "Speak with restraint; do not interrupt others.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 7,
+      "title": "Emotional Restraint",
+      "challengeTitle": "No Complaining",
+      "challengeRule": "Do not complain verbally or internally.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 8,
+      "title": "Humility",
+      "challengeTitle": "Hidden Acts of Service",
+      "challengeRule": "Perform one hidden act of service each day without recognition.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 9,
+      "title": "Voluntary Discomfort",
+      "challengeTitle": "Cold Shower Finish",
+      "challengeRule": "End each shower with a cold-water finish.",
+      "challengeIsTemporary": false
+    },
+    {
+      "week": 10,
+      "title": "Sacrificial Priority (Temporary)",
+      "challengeTitle": "Wake Earlier",
+      "challengeRule": "Wake 30 minutes earlier than normal this week only.",
+      "challengeIsTemporary": true
+    },
+    {
+      "week": 11,
+      "title": "Mental Fast (Temporary)",
+      "challengeTitle": "No Social Media or Streaming",
+      "challengeRule": "No social media or streaming content this week.",
+      "challengeIsTemporary": true
+    },
+    {
+      "week": 12,
+      "title": "Hidden Faithfulness",
+      "challengeTitle": "Practice in Secret",
+      "challengeRule": "Do not tell anyone what you are doing during this final week.",
+      "challengeIsTemporary": false
+    }
+  ]
+}
